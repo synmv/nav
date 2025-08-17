@@ -3023,7 +3023,7 @@ export const sites = [
       "shortDesc": "",
       "url": "https://www.google.com/adsense",
       "category": "运营相关"
-    }          
+    },          
  ]           
 ];
 
