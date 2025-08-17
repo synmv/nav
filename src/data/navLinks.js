@@ -41,7 +41,6 @@ export const categories = [
  */
 export const sites = [
   //开源      
-      [
   {
     "id": "github",
     "title": "GitHub",
@@ -3023,8 +3022,7 @@ export const sites = [
       "shortDesc": "",
       "url": "https://www.google.com/adsense",
       "category": "运营相关"
-    },          
- ]           
+    },                   
 ];
 
 /**
